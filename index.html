@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Roman Del Angel — Portafolio (Terminal)</title>
+  <title>Román del Angel — Portafolio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div id="terminal" role="application" aria-label="Terminal de Roman">
+  <button id="modeToggle" class="mode-toggle" type="button"
+          title="Switch between terminal and formal view">
+    <span id="modeToggleIcon">📄</span> <span id="modeToggleText">Formal view</span>
+  </button>
+
+  <!-- ===================== VISTA TERMINAL ===================== -->
+  <div id="terminal" role="application" aria-label="Roman's terminal">
     <div class="term-header">
       <div class="dot close"></div>
       <div class="dot min"></div>
@@ -23,6 +29,234 @@
       <div id="autocomplete"></div>
     </div>
   </div>
+
+  <!-- ===================== VISTA FORMAL ===================== -->
+  <section id="formalView" hidden aria-label="Formal portfolio">
+    <div class="formal-wrapper">
+
+      <header class="hero">
+        <p class="hero-kicker" data-i18n="f_kicker">Portfolio</p>
+        <h1>Román del Angel Juárez</h1>
+        <p class="hero-role" data-i18n="f_role">Software Developer · Backend and Applied Artificial Intelligence</p>
+        <p class="hero-loc" data-i18n="f_loc">Tampico, Tamaulipas, Mexico</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="mailto:fjrdelangeljr@gmail.com" data-i18n="f_btn_mail">✉ Email</a>
+          <a class="btn" href="https://github.com/PWD-Roman" target="_blank" rel="noopener">GitHub</a>
+          <a class="btn" href="https://www.linkedin.com/in/roman-del-angel-juarez-a108312b9/" target="_blank" rel="noopener">LinkedIn</a>
+          <a class="btn" href="cv.pdf" download="Roman_del_Angel_CV.pdf">⬇ CV (PDF)</a>
+        </div>
+      </header>
+
+      <main>
+        <section class="f-section" id="f-about">
+          <h2 data-i18n="f_about">About me</h2>
+          <p data-i18n="f_about_p1">
+            I am a software developer focused on backend and applied artificial intelligence. I currently work at
+            ClusterIA, where I prepare and evaluate data, build natural language processing models and integrate
+            AI services with educational platforms such as Canvas LMS.
+          </p>
+          <p data-i18n="f_about_p2">
+            I have also built backend solutions for real organizations, taking part in requirements analysis, data
+            modeling, business logic and implementation. I am interested in building useful, reliable and maintainable
+            systems, understanding how their components connect from data all the way to the user experience.
+          </p>
+        </section>
+
+        <section class="f-section" id="f-exp">
+          <h2 data-i18n="f_exp">Experience</h2>
+          <div class="timeline">
+            <article class="card">
+              <div class="card-head">
+                <h3 data-i18n="f_exp1_t">Junior AI Developer</h3>
+                <span class="badge" data-i18n="f_exp1_b">ClusterIA / IEST Anáhuac</span>
+              </div>
+              <p class="period" data-i18n="f_exp1_p">October 2025 – present</p>
+              <ul>
+                <li data-i18n="f_exp1_i1">Prepared and structured datasets for intent classification and NLP.</li>
+                <li data-i18n="f_exp1_i2">Organized examples, labels and entities to train and evaluate models.</li>
+                <li data-i18n="f_exp1_i3">Evaluated models, analyzed errors and detected inconsistencies.</li>
+                <li data-i18n="f_exp1_i4">Integrated AI APIs and services; built a JavaScript LTI integration for Canvas LMS.</li>
+                <li data-i18n="f_exp1_i5">Testing, answer validation, documentation and component stabilization.</li>
+              </ul>
+              <p class="note" data-i18n="f_exp1_n">Featured project: Canvitas, an NLP-based help assistant for Canvas LMS.</p>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3 data-i18n="f_exp2_t">Backend Developer (Freelance)</h3>
+                <span class="badge" data-i18n="f_exp2_b">Colegio de Anestesiología de Tampico</span>
+              </div>
+              <p class="period" data-i18n="f_exp2_p">June 2025 – October 2025</p>
+              <ul>
+                <li data-i18n="f_exp2_i1">ERM system / administrative platform for a community of ~560 anesthesiologist physicians.</li>
+                <li data-i18n="f_exp2_i2">Requirements gathering, data modeling and schema design.</li>
+                <li data-i18n="f_exp2_i3">Business logic development and backend component implementation.</li>
+                <li data-i18n="f_exp2_i4">Data integrity and consistency; delivery of the developed system.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3 data-i18n="f_exp3_t">Independent projects</h3>
+                <span class="badge" data-i18n="f_exp3_b">Administrative systems</span>
+              </div>
+              <p class="period" data-i18n="f_exp3_p">personal projects</p>
+              <ul>
+                <li data-i18n="f_exp3_i1">Carroel: administrative system for a driving school.</li>
+                <li data-i18n="f_exp3_i2">Tools to record information, manage entities and automate tasks.</li>
+              </ul>
+            </article>
+          </div>
+        </section>
+
+        <section class="f-section" id="f-proj">
+          <h2 data-i18n="f_proj">Projects</h2>
+          <div class="grid">
+            <article class="card">
+              <div class="card-head">
+                <h3>Canvitas</h3>
+                <span class="badge" data-i18n="f_p1_b">NLP · Canvas LMS</span>
+              </div>
+              <p data-i18n="f_p1_d">
+                A natural language assistant that turns everyday-language requests into Canvas LMS API intents.
+                Philosophy: <em>“MiniLM recognizes, ToD decides”</em>.
+              </p>
+              <ul>
+                <li data-i18n="f_p1_i1">Multilingual MiniLM + dialogue component (slot filling, context, clarifications).</li>
+                <li data-i18n="f_p1_i2">Dataset V2: 12,600 examples · 36 intents · 33 IOB labels · 16 entities.</li>
+                <li data-i18n="f_p1_i3">LTI integration (JavaScript) and ONNX conversion for optimized inference.</li>
+              </ul>
+              <p class="note" data-i18n="f_p1_n">Internal project evaluation results: 98.39% intent classification and 99.55% entity recognition (70/15/15 split).</p>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3>RAG legal assistant</h3>
+                <span class="badge" data-i18n="f_p2_b">Node.js · Vector retrieval</span>
+              </div>
+              <p data-i18n="f_p2_d">
+                An experimental assistant that answers questions about Mexican cybersecurity and data protection
+                legislation, grounded in retrieved documents.
+              </p>
+              <ul>
+                <li data-i18n="f_p2_i1">OpenAI Vector Stores, PDF processing and OCR for non-selectable documents.</li>
+                <li data-i18n="f_p2_i2">Traceable citations and references with source identifiers.</li>
+                <li data-i18n="f_p2_i3">Flags missing evidence when retrieval is not sufficient.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3>Local models &amp; inference</h3>
+                <span class="badge" data-i18n="f_p3_b">vLLM · FastAPI · ONNX</span>
+              </div>
+              <p data-i18n="f_p3_d">
+                Local infrastructure to serve language models and consume them from my own applications.
+              </p>
+              <ul>
+                <li data-i18n="f_p3_i1">Serving with vLLM and quantized models (Qwen2.5-32B-Instruct-AWQ).</li>
+                <li data-i18n="f_p3_i2">FastAPI services and an inference API compatible with backend services.</li>
+                <li data-i18n="f_p3_i3">Context length, GPU memory configuration and load testing.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3>ERM system</h3>
+                <span class="badge" data-i18n="f_p4_b">Backend · Databases</span>
+              </div>
+              <p data-i18n="f_p4_d">
+                System to centralize information and administrative processes for the Colegio de Anestesiología of
+                Tampico (~560 physicians).
+              </p>
+              <ul>
+                <li data-i18n="f_p4_i1">Requirements, data modeling, business logic and backend implementation.</li>
+                <li data-i18n="f_p4_i2">Structured information manageable from a centralized system.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <div class="card-head">
+                <h3>Carroel</h3>
+                <span class="badge" data-i18n="f_p5_b">Administrative system</span>
+              </div>
+              <p data-i18n="f_p5_d">
+                Software to support driving school administration: record information, manage entities and automate
+                previously manual tasks.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="f-section" id="f-tech">
+          <h2 data-i18n="f_tech">Technologies</h2>
+          <div class="tech-group">
+            <h3 data-i18n="f_t1">Practical use in projects</h3>
+            <div class="chips">
+              <span>Python</span><span>JavaScript</span><span>Node.js</span><span>SQL</span>
+              <span>MySQL</span><span>MongoDB</span><span>Pandas</span><span>Git</span><span>Linux</span>
+            </div>
+          </div>
+          <div class="tech-group">
+            <h3 data-i18n="f_t2">AI and data</h3>
+            <div class="chips">
+              <span>NLP</span><span>MiniLM</span><span>PyTorch</span><span>Sentence Transformers</span>
+              <span>RAG</span><span>LLM</span><span>vLLM</span><span>ONNX</span>
+            </div>
+          </div>
+          <div class="tech-group">
+            <h3 data-i18n="f_t3">Backend and integration</h3>
+            <div class="chips">
+              <span>FastAPI</span><span>REST APIs</span><span>Canvas LMS</span><span>LTI</span>
+            </div>
+          </div>
+          <div class="tech-group">
+            <h3 data-i18n="f_t4">Complementary knowledge</h3>
+            <div class="chips">
+              <span>C++</span><span>PHP</span><span>PostgreSQL</span><span>Docker</span>
+              <span>HTML</span><span>CSS</span><span data-i18n="f_powbi">Power BI (academic)</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="f-section" id="f-edu">
+          <h2 data-i18n="f_edu">Education and languages</h2>
+          <div class="card">
+            <div class="card-head">
+              <h3 data-i18n="f_edu_t">B.Sc. in Computer Systems and Digital Business</h3>
+              <span class="badge">IEST Anáhuac</span>
+            </div>
+            <p class="period" data-i18n="f_edu_p">ninth semester · expected graduation: December 2026</p>
+            <p data-i18n="f_edu_d">A program combining computer systems with digital business processes.</p>
+          </div>
+          <p class="langs" data-i18n-html="f_langs"><strong>Languages:</strong> Spanish (native) · English (intermediate)</p>
+        </section>
+
+        <section class="f-section" id="f-interests">
+          <h2 data-i18n="f_int">Technical interests</h2>
+          <div class="chips">
+            <span data-i18n="f_int_1">Applied AI</span>
+            <span data-i18n="f_int_2">Local models and privacy</span>
+            <span data-i18n="f_int_3">Natural language processing</span>
+            <span data-i18n="f_int_4">Agents and automation</span>
+            <span data-i18n="f_int_5">Backend and integration</span>
+            <span data-i18n="f_int_6">RAG and knowledge-based systems</span>
+            <span data-i18n="f_int_7">Linux (Arch · Hyprland)</span>
+          </div>
+        </section>
+      </main>
+
+      <footer class="f-footer">
+        <p data-i18n="f_footer_1">Román del Angel Juárez — Tampico, Tamaulipas, Mexico</p>
+        <p data-i18n-html="f_footer_2">
+          <a href="mailto:fjrdelangeljr@gmail.com">fjrdelangeljr@gmail.com</a> ·
+          <a href="https://github.com/PWD-Roman" target="_blank" rel="noopener">GitHub</a> ·
+          <a href="https://www.linkedin.com/in/roman-del-angel-juarez-a108312b9/" target="_blank" rel="noopener">LinkedIn</a>
+        </p>
+      </footer>
+
+    </div>
+  </section>
 
   <script src="script.js"></script>
 </body>

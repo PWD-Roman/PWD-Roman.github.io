@@ -1,0 +1,1093 @@
+PERFIL PERSONAL Y PROFESIONAL Documento base para la renovación del
+portafolio web de Román del Angel Juárez Última actualización: noviembre
+de 2026
+
+====================================================================== 1.
+IDENTIDAD Y PRESENTACIÓN GENERAL
+======================================================================
+
+Nombre: Román del Angel Juárez Ubicación: Tampico, Tamaulipas, México
+Formación: Licenciatura en Sistemas Computacionales y Negocios
+Digitales, IEST Anáhuac. Situación académica: noveno semestre;
+graduación prevista para diciembre de 2026. Idiomas: español nativo e
+inglés intermedio.
+
+Román es un desarrollador de software con orientación hacia inteligencia
+artificial aplicada, desarrollo backend e integración de sistemas. Su
+perfil combina formación en computación y negocios digitales con
+experiencia práctica en proyectos que requieren entender un problema,
+convertirlo en requerimientos, estructurar datos, desarrollar la lógica
+del sistema, conectar servicios y comprobar que el resultado sea útil.
+
+Su interés técnico no se limita a utilizar herramientas o modelos ya
+construidos. Le interesa comprender cómo funcionan, cómo se conectan sus
+componentes y cómo llevarlos a una solución que pueda ejecutarse,
+mantenerse y utilizarse en un entorno real. Ha trabajado tanto con
+desarrollo de aplicaciones y servicios como con preparación de datos,
+evaluación de modelos de lenguaje, procesamiento de lenguaje natural e
+integración de plataformas educativas.
+
+Una característica importante de su perfil es la combinación de
+experimentación técnica y enfoque práctico. Puede explorar una
+tecnología nueva, construir una prueba de concepto, medir sus resultados
+y ajustar la implementación cuando encuentra limitaciones. También
+presta atención a aspectos que suelen quedar fuera de una demostración:
+consistencia de datos, validación, manejo de errores, documentación,
+rendimiento, costos de operación y facilidad de uso.
+
+La presentación profesional más precisa no es la de un especialista
+absoluto en una sola tecnología, sino la de un desarrollador en
+crecimiento con experiencia práctica en backend e inteligencia
+artificial aplicada, capaz de trabajar entre datos, modelos, APIs y
+aplicaciones.
+
+======================================================================
+2. PERFIL PROFESIONAL
+======================================================================
+
+Áreas principales: - Desarrollo backend y lógica de negocio. -
+Inteligencia artificial aplicada a productos y procesos. - Procesamiento
+de lenguaje natural (NLP). - Preparación, limpieza, estructuración y
+validación de datos. - Evaluación de modelos y conjuntos de datos. -
+Integración de APIs y servicios externos. - Integración de plataformas
+mediante estándares y herramientas como LTI. - Diseño y consulta de
+bases de datos relacionales y NoSQL. - Automatización de tareas y
+construcción de herramientas internas. - Desarrollo de soluciones
+orientadas a necesidades concretas de usuarios y organizaciones.
+
+Enfoque de trabajo: Román busca entender el problema antes de decidir
+cómo resolverlo. Le interesa que la tecnología tenga una función clara
+dentro del producto y no utilizar herramientas únicamente porque sean
+populares. Cuando trabaja con inteligencia artificial, considera
+importante controlar la entrada de información, preparar datos
+adecuados, evaluar las salidas y establecer mecanismos para evitar
+respuestas inconsistentes o información inventada.
+
+En desarrollo de software, procura conectar las decisiones técnicas con
+el funcionamiento general del sistema. Esto implica considerar los datos
+que necesita una función, las reglas de negocio que debe respetar, los
+servicios con los que se comunica y la forma en que el usuario
+interactúa con el resultado.
+
+Su experiencia combina trabajo de implementación con tareas de análisis,
+pruebas y ajuste. No todo su trabajo consiste en programar nuevas
+funciones: también ha preparado datasets, revisado etiquetas, validado
+configuraciones, detectado inconsistencias y comprobado que los
+resultados de un modelo correspondan con el comportamiento esperado.
+
+======================================================================
+3. EXPERIENCIA PROFESIONAL
+======================================================================
+
+3.1. Desarrollador Junior de IA — ClusterIA / IEST Anáhuac Periodo:
+octubre de 2025 – actualidad
+
+Participa en el desarrollo de soluciones de inteligencia artificial para
+el entorno educativo e institucional. Su trabajo incluye preparación de
+conjuntos de datos, construcción y organización de bases de
+conocimiento, evaluación de modelos, validación de información y
+desarrollo de integraciones con plataformas existentes.
+
+Responsabilidades y actividades realizadas: - Preparación y
+estructuración de datasets para tareas de clasificación de intenciones y
+procesamiento de lenguaje natural. - Organización de ejemplos, etiquetas
+y entidades para entrenar y evaluar modelos. - Revisión de datos y
+detección de inconsistencias en ejemplos, etiquetas y configuraciones. -
+Evaluación de resultados de modelos y análisis de errores para
+identificar oportunidades de mejora. - Trabajo con modelos de lenguaje y
+modelos compactos orientados a tareas específicas. - Integración de APIs
+y servicios de inteligencia artificial. - Desarrollo de una integración
+LTI en JavaScript para Canvas LMS. - Conexión de Canvas LMS con
+servicios externos y APIs. - Pruebas de funcionamiento, validación de
+respuestas y ajustes de integración. - Apoyo en la preparación de
+documentación y estabilización de componentes.
+
+Esta experiencia le ha permitido conocer el trabajo que existe alrededor
+de un sistema de IA más allá de enviar una pregunta a un modelo. Ha
+trabajado con datos, etiquetas, bases de conocimiento, integración,
+evaluación y validación, elementos necesarios para que una solución sea
+confiable y pueda utilizarse dentro de una plataforma real.
+
+Proyecto destacado relacionado: Canvitas, un asistente de ayuda para
+Canvas LMS basado en procesamiento de lenguaje natural.
+
+3.2. Desarrollador Backend Freelance — Colegio de Anestesiología de
+Tampico Periodo: junio de 2025 – octubre de 2025 Proyecto: sistema ERM /
+plataforma administrativa para el gremio.
+
+Participó en el desarrollo de un sistema destinado a centralizar
+información y procesos administrativos de una organización profesional.
+El trabajo abarcó distintas etapas del ciclo de desarrollo, desde la
+comprensión de necesidades hasta la implementación.
+
+Actividades: - Levantamiento y análisis de requerimientos. -
+Identificación de entidades, relaciones y necesidades de información. -
+Diseño de modelos y estructuras de bases de datos. - Desarrollo de
+lógica de negocio para los procesos del sistema. - Implementación de
+componentes backend. - Organización de la información para facilitar su
+administración. - Atención a la integridad y consistencia de los
+datos. - Seguimiento independiente de tareas y entrega del desarrollo.
+
+El proyecto se relacionó con una plataforma para una comunidad
+profesional de aproximadamente 560 médicos anestesiólogos. Es una
+experiencia relevante porque implicó trabajar con necesidades de una
+organización real y convertirlas en funciones de software, no solamente
+desarrollar ejercicios académicos.
+
+3.3. Desarrollo de sistemas administrativos y proyectos independientes
+
+También ha trabajado en proyectos de software orientados a resolver
+necesidades operativas, administrativas y de gestión. Entre ellos se
+encuentra Carroel, un sistema relacionado con la administración de una
+escuela de manejo.
+
+Este tipo de proyectos refleja su interés por crear herramientas que
+organicen procesos reales: registrar información, administrar entidades,
+automatizar tareas y ofrecer una interfaz que permita a los usuarios
+realizar operaciones sin depender de procesos manuales dispersos.
+
+Al describir estos proyectos públicamente, conviene especificar
+únicamente las funciones que estén implementadas y que puedan
+demostrarse. No se deben atribuir resultados, métricas o módulos que no
+estén confirmados.
+
+======================================================================
+4. PROYECTOS TÉCNICOS DESTACADOS
+======================================================================
+
+4.1. Canvitas — Asistente de lenguaje natural para Canvas LMS
+
+Canvitas es un sistema de comprensión de lenguaje natural diseñado para
+traducir solicitudes expresadas por usuarios a intenciones relacionadas
+con la API de Canvas LMS. Su propósito es facilitar el acceso a
+información y funciones de la plataforma mediante lenguaje cotidiano,
+manteniendo control sobre la interpretación de las solicitudes.
+
+La arquitectura utiliza un modelo MiniLM multilingüe para reconocer
+intenciones y entidades, junto con un componente de diálogo orientado a
+gestionar el contexto, completar parámetros faltantes y solicitar
+aclaraciones cuando la petición no es suficientemente clara.
+
+Tecnologías y conceptos: - Python. - Procesamiento de lenguaje
+natural. - Sentence Transformers. -
+paraphrase-multilingual-MiniLM-L12-v2. - Clasificación de intenciones. -
+Etiquetado de entidades con esquema IOB. - Slot filling. - Gestión de
+contexto. - Bases de conocimiento y ontologías. - APIs de Canvas LMS. -
+JavaScript y LTI para integración con Canvas. - PyTorch. - ONNX y
+preparación para inferencia optimizada.
+
+Trabajo realizado: - Diseño y generación de conjuntos de datos para
+clasificación de intenciones. - Definición de etiquetas y entidades para
+extraer parámetros de las solicitudes. - Entrenamiento y evaluación del
+modelo MiniLM. - Ajuste de umbrales de confianza para decidir cuándo
+ejecutar una intención y cuándo solicitar aclaraciones. - Integración de
+un componente de diálogo para completar información faltante. - Diseño
+de una ontología que relaciona acciones, recursos, vistas y filtros. -
+Validación de la conversión del modelo a ONNX. - Integración con Canvas
+LMS mediante APIs y componentes de la plataforma.
+
+Resultados registrados durante el desarrollo: - Dataset V2 de 12,600
+ejemplos, organizado en 350 ejemplos para cada una de 36 intenciones. -
+33 etiquetas IOB y 16 tipos de entidades. - División de entrenamiento,
+validación y prueba de 70/15/15. - Mejor resultado registrado: 98.39% en
+clasificación de intención y 99.55% en reconocimiento de entidades. -
+Conversión a ONNX con coincidencia del 100% en las decisiones de argmax
+frente al modelo de referencia en la validación realizada.
+
+Estos resultados corresponden a experimentos y evaluaciones internas del
+proyecto; no deben presentarse como una garantía de precisión en
+cualquier escenario de producción.
+
+La idea central de Canvitas es que un modelo compacto puede reconocer lo
+que una persona quiere hacer, mientras que un componente de diálogo y
+reglas controla la decisión, el contexto y los datos necesarios para
+ejecutar la acción. La filosofía del proyecto se resume en: “MiniLM
+reconoce, ToD decide”.
+
+Estado y evolución: El proyecto evolucionó desde una demostración de
+comprensión de lenguaje natural hacia una integración LTI con Canvas LMS
+y una versión beta orientada a producción. El trabajo posterior
+contempla validación con usuarios, pruebas de calidad, optimización y
+documentación.
+
+4.2. Asistente de consulta jurídica en ciberseguridad con RAG
+
+Proyecto de experimentación y desarrollo de un asistente que responde
+preguntas sobre legislación y documentos jurídicos mexicanos
+relacionados con ciberseguridad, protección de datos y materias afines.
+
+El objetivo es que las respuestas se apoyen en documentos recuperados y
+no en afirmaciones generadas sin evidencia. Para ello se organiza un
+conjunto documental, se extrae el texto de los archivos y se utiliza
+recuperación de información para proporcionar fragmentos relevantes al
+sistema.
+
+Componentes y tecnologías: - Node.js. - APIs de modelos de lenguaje. -
+OpenAI Vector Stores / almacenamiento vectorial. - Recuperación
+aumentada por generación (RAG). - Procesamiento de documentos PDF. -
+Extracción de texto y OCR como alternativa cuando el PDF no contiene
+texto seleccionable. - Metadatos documentales. - Citas y referencias a
+fragmentos recuperados. - Evaluación de respuestas.
+
+Criterios de diseño: - Responder a partir de los documentos
+disponibles. - Identificar los fragmentos que respaldan cada
+afirmación. - Mantener referencias trazables mediante identificadores de
+fuente. - Evitar presentar como confirmados artículos o disposiciones
+que no aparecen en el material recuperado. - Conservar un borrador o
+señalar la falta de evidencia cuando no se localiza respaldo
+suficiente. - Limitar el contexto recuperado para mantener control sobre
+la información utilizada. - Evaluar casos concretos para detectar
+errores de recuperación o interpretación.
+
+El corpus contempla documentos como la Constitución, códigos federales,
+legislación de protección de datos, propiedad intelectual, seguridad
+pública y criterios judiciales. La selección exacta de documentos puede
+cambiar conforme se amplíe el repositorio.
+
+Este proyecto demuestra interés por la IA aplicada a dominios donde la
+trazabilidad, la precisión y la procedencia de la información son
+especialmente importantes.
+
+4.3. Modelos locales e infraestructura de inferencia
+
+Román ha experimentado con la ejecución de modelos de lenguaje en
+infraestructura local, buscando comprender los requisitos de memoria,
+rendimiento, configuración y exposición de servicios.
+
+Experiencia práctica: - Ejecución de modelos mediante vLLM. - Uso de
+modelos cuantizados, incluyendo Qwen2.5-32B-Instruct-AWQ. - Exposición
+de inferencia mediante una API compatible con servicios backend. -
+Configuración de longitud máxima de contexto y utilización de memoria de
+GPU. - Construcción de servicios con FastAPI. - Pruebas de carga y
+observación del comportamiento del servicio. - Integración de modelos
+locales con aplicaciones propias.
+
+También ha construido un servicio para procesar registros educativos y
+generar mensajes de apoyo dirigidos a estudiantes, devolviendo un
+mensaje y recomendaciones a partir de la información disponible.
+
+Esta experiencia es útil para mostrar que su interés por la IA incluye
+tanto la capa de aplicación como la operación técnica de modelos:
+despliegue, recursos de hardware, endpoints, pruebas y consumo desde
+otros servicios.
+
+4.4. Carroel — Sistema administrativo para escuela de manejo
+
+Proyecto de software orientado a apoyar la administración de una escuela
+de manejo. Su enfoque es organizar información y procesos que
+normalmente requieren seguimiento manual.
+
+Debe presentarse como un proyecto de desarrollo de sistemas
+administrativos. En la versión pública del portafolio conviene añadir
+una descripción funcional más detallada, capturas y tecnologías
+únicamente después de verificar qué módulos están terminados y cuáles
+siguen en desarrollo.
+
+4.5. Sistema para el Colegio de Anestesiología de Tampico
+
+Sistema ERM desarrollado para apoyar la gestión administrativa de una
+organización profesional. El proyecto involucró diseño de datos, lógica
+de negocio y desarrollo backend. La organización reúne aproximadamente
+560 médicos.
+
+Es una referencia importante de trabajo aplicado porque parte de una
+necesidad organizacional concreta y requiere estructurar información
+para que pueda administrarse desde un sistema centralizado.
+
+======================================================================
+5. TECNOLOGÍAS, HERRAMIENTAS Y CONOCIMIENTOS
+======================================================================
+
+La lista siguiente distingue entre tecnologías utilizadas y áreas de
+conocimiento. No significa que todas tengan el mismo nivel de dominio.
+
+5.1. Lenguajes de programación
+
+Python: Utilizado para preparación y procesamiento de datos,
+automatización, experimentación con modelos de IA, entrenamiento y
+evaluación de modelos, y desarrollo de servicios.
+
+JavaScript: Utilizado para desarrollo backend, integración de APIs y
+conexión de servicios con plataformas como Canvas LMS.
+
+Node.js: Utilizado para construir servicios y aplicaciones backend,
+integrar APIs y desarrollar herramientas que consumen servicios
+externos.
+
+C++: Conocido y utilizado en actividades de programación. También existe
+interés en su aplicación para integrar modelos y componentes de
+inferencia optimizados.
+
+PHP: Parte de su conjunto de tecnologías de desarrollo y experiencia de
+programación.
+
+SQL: Utilizado para consultar y trabajar con información estructurada y
+bases de datos relacionales.
+
+HTML y CSS: Tecnologías fundamentales para construir y estructurar
+interfaces web. El portafolio puede mostrar experiencia complementaria
+en desarrollo de interfaces, sin presentar este enfoque como su
+especialidad principal.
+
+5.2. Datos y bases de datos
+
+-   MySQL.
+-   PostgreSQL.
+-   MongoDB.
+-   SQL.
+-   Pandas.
+-   JSON.
+-   Modelado de datos.
+-   Diseño de esquemas.
+-   Relaciones entre entidades.
+-   Validación y consistencia de información.
+-   Preparación y transformación de datasets.
+
+Su experiencia con datos incluye tanto el uso de bases de datos para
+aplicaciones como el tratamiento de conjuntos de datos destinados a
+modelos de aprendizaje automático.
+
+5.3. Inteligencia artificial y aprendizaje automático
+
+-   Procesamiento de lenguaje natural (NLP).
+-   Clasificación de intenciones.
+-   Reconocimiento y extracción de entidades.
+-   Etiquetado IOB.
+-   Sentence Transformers.
+-   MiniLM.
+-   PyTorch.
+-   Fine-tuning y ajuste de modelos para tareas específicas.
+-   Preparación y evaluación de datasets.
+-   Métricas de clasificación.
+-   Análisis de errores.
+-   Modelos de lenguaje grandes (LLM).
+-   Recuperación aumentada por generación (RAG).
+-   Bases de conocimiento.
+-   Almacenamiento y recuperación vectorial.
+-   Prompting e integración de modelos mediante APIs.
+-   Inferencia local.
+-   vLLM.
+-   ONNX.
+
+Su enfoque en IA se orienta a integrar modelos dentro de sistemas con
+objetivos y reglas definidos. Le interesa medir el comportamiento y
+reducir respuestas incorrectas, en lugar de considerar que la salida de
+un modelo es correcta por defecto.
+
+5.4. Backend e integración
+
+-   Node.js.
+-   APIs REST y consumo de APIs.
+-   Integración de servicios externos.
+-   FastAPI.
+-   Lógica de negocio.
+-   Diseño de servicios.
+-   Integración de plataformas.
+-   Canvas LMS.
+-   Learning Tools Interoperability (LTI).
+-   Manejo de JSON.
+-   Arquitectura de aplicaciones backend.
+
+5.5. Herramientas y entornos
+
+-   Git y control de versiones.
+-   Docker.
+-   Linux.
+-   Windows.
+-   Entornos de desarrollo locales.
+-   Terminal y línea de comandos.
+-   Visual Studio Code y herramientas habituales de desarrollo.
+-   PyTorch y herramientas de entrenamiento.
+-   ONNX Runtime como parte de su exploración de despliegue optimizado.
+-   vLLM para servir modelos de lenguaje.
+-   FastAPI para servicios de inferencia.
+
+5.6. Infraestructura y hardware
+
+Ha configurado y utilizado entornos locales para desarrollo de IA. Tiene
+experiencia práctica con GPUs NVIDIA, memoria de video limitada y
+modelos cuantizados, lo que le ha permitido entender que la elección del
+modelo depende también del hardware y de los recursos disponibles.
+
+Ha trabajado con sistemas Linux y personalización de entornos de
+escritorio, particularmente Arch Linux y Hyprland. Este interés refleja
+comodidad con la configuración del sistema, la terminal y la resolución
+de problemas del entorno de desarrollo.
+
+5.7. Analítica y herramientas empresariales
+
+-   Pandas y SQL: experiencia práctica previa.
+-   Power BI: conocimiento académico y uso en actividades de clase; no
+    debe presentarse como experiencia profesional o de implementación en
+    una empresa.
+-   Excel: herramienta conocida en el contexto académico y de trabajo
+    con información.
+-   Análisis y estructuración de información para apoyar procesos.
+
+Es importante mantener esta distinción en el portafolio y en el CV. Es
+mejor describir con precisión el nivel de experiencia que atribuirse
+dominio profesional de una herramienta que solo se ha utilizado en el
+entorno académico.
+
+======================================================================
+6. FORTALEZAS PROFESIONALES
+======================================================================
+
+Las siguientes fortalezas se desprenden de las actividades y proyectos
+documentados. Son descripciones respaldadas por ejemplos de trabajo, no
+adjetivos genéricos.
+
+6.1. Pensamiento analítico
+
+Tiende a descomponer problemas complejos en partes más manejables. En
+sus proyectos de NLP, por ejemplo, separa la clasificación de intención,
+la extracción de entidades, la gestión de contexto y la ejecución de
+acciones. En backend, distingue los requerimientos, el modelo de datos,
+las reglas de negocio y la integración.
+
+Esta forma de trabajar facilita identificar dónde se origina un error y
+qué componente debe modificarse.
+
+6.2. Orientación a resolver problemas reales
+
+Sus proyectos están relacionados con necesidades concretas: ayudar a
+usuarios de Canvas LMS, organizar procesos de una asociación
+profesional, construir herramientas administrativas y consultar
+documentación jurídica.
+
+Esto le permite pensar en términos de utilidad y funcionamiento, no
+solamente en términos de código.
+
+6.3. Capacidad de aprendizaje autodirigido
+
+Ha explorado tecnologías y herramientas que requieren estudiar
+documentación, configurar entornos y realizar pruebas por cuenta propia.
+Ejemplos de ello son la ejecución local de modelos de lenguaje, la
+conversión de modelos a ONNX, el uso de vLLM y el desarrollo de un flujo
+RAG documental.
+
+Su aprendizaje suele estar ligado a una necesidad de implementación:
+aprende una herramienta para resolver una parte específica del sistema.
+
+6.4. Atención a la calidad de los datos
+
+Ha trabajado directamente con preparación de datasets, revisión de
+etiquetas, validación de configuraciones y detección de inconsistencias.
+Esta experiencia es especialmente relevante en proyectos de IA, donde la
+calidad de los datos condiciona el comportamiento del modelo.
+
+6.5. Pensamiento orientado a sistemas
+
+No aborda una función como un elemento aislado. Considera cómo se
+relaciona con los datos, los servicios, el contexto, las reglas de
+negocio y el usuario final. Esta perspectiva aparece tanto en sus
+desarrollos backend como en sus proyectos de IA.
+
+6.6. Experimentación y evaluación
+
+Ha entrenado y evaluado modelos, comparado resultados, ajustado umbrales
+de confianza y validado conversiones de formato. También ha realizado
+pruebas de carga en servicios locales.
+
+Esto muestra disposición a comprobar resultados mediante pruebas, en
+lugar de asumir que una implementación funciona solo porque ejecuta sin
+errores.
+
+6.7. Autonomía para desarrollar proyectos
+
+En su experiencia freelance participó desde el levantamiento de
+requerimientos hasta la implementación y entrega. También ha construido
+proyectos propios que implican investigar tecnologías, tomar decisiones
+y conectar componentes diferentes.
+
+6.8. Adaptabilidad tecnológica
+
+Su experiencia atraviesa desarrollo backend, datos, NLP, modelos de
+lenguaje, integración de plataformas y sistemas Linux. Puede cambiar de
+herramienta según el problema, aunque esto no significa que todas las
+tecnologías tengan el mismo nivel de dominio.
+
+6.9. Atención a la trazabilidad y confiabilidad
+
+En el proyecto RAG jurídico ha considerado importante que las respuestas
+puedan vincularse con fragmentos documentales concretos. En Canvitas ha
+trabajado con umbrales y aclaraciones para reducir ejecuciones basadas
+en interpretaciones ambiguas.
+
+Esta preocupación por justificar y validar resultados es una fortaleza
+relevante para productos donde los errores tienen consecuencias.
+
+6.10. Capacidad para conectar áreas técnicas y de negocio
+
+Su formación combina sistemas computacionales y negocios digitales. Esto
+favorece una perspectiva que considera tanto la implementación técnica
+como el proceso organizacional que se busca mejorar.
+
+======================================================================
+7. ÁREAS DE MEJORA Y DEBILIDADES QUE CONVIENE RECONOCER
+======================================================================
+
+No existe información suficiente para afirmar rasgos personales
+negativos como falta de disciplina, mala comunicación o dificultad para
+trabajar en equipo. No sería correcto inventarlos. Las siguientes áreas
+son brechas profesionales observables o riesgos razonables derivados de
+su etapa de carrera y de la experiencia documentada.
+
+7.1. Profundizar en una especialidad principal
+
+Su perfil abarca muchas tecnologías y áreas. Esa amplitud es útil para
+construir soluciones completas, pero puede hacer que su presentación
+parezca demasiado dispersa si intenta posicionarse simultáneamente como
+especialista en backend, ciencia de datos, infraestructura, IA, frontend
+y administración de sistemas.
+
+Área de mejora: Definir una especialidad principal para la comunicación
+profesional. Una posición coherente con su experiencia actual sería
+desarrollo de software e integración de IA, con énfasis en backend, NLP
+y automatización. Las demás tecnologías pueden presentarse como
+capacidades complementarias.
+
+7.2. Consolidar experiencia en sistemas de producción a mayor escala
+
+Cuenta con experiencia en integración y desarrollo de soluciones reales,
+así como con una versión beta de una integración educativa. Sin embargo,
+no debe equipararse automáticamente esa experiencia con haber operado
+durante años sistemas empresariales de gran escala.
+
+Área de mejora: Documentar despliegues, monitoreo, disponibilidad,
+recuperación ante fallos, seguridad, observabilidad, escalabilidad y
+mantenimiento. Participar en ciclos completos de operación permitirá
+respaldar afirmaciones más fuertes sobre sistemas productivos.
+
+7.3. Fortalecer pruebas automatizadas y aseguramiento de calidad
+
+Ha realizado validación y evaluación de modelos y servicios. Una
+siguiente etapa natural es formalizar más de esas comprobaciones
+mediante pruebas unitarias, pruebas de integración, pruebas de regresión
+y pipelines automatizados.
+
+Área de mejora: Construir suites de pruebas reproducibles, establecer
+criterios de aceptación y automatizar verificaciones en cada cambio
+relevante.
+
+7.4. Profundizar en arquitectura backend
+
+Tiene experiencia con lógica de negocio, bases de datos, APIs e
+integración. Para avanzar hacia puestos de mayor responsabilidad,
+conviene profundizar en diseño de sistemas, separación de
+responsabilidades, patrones de arquitectura, concurrencia, seguridad,
+caché, colas, transacciones y observabilidad.
+
+7.5. Seguridad de aplicaciones
+
+Sus proyectos relacionados con datos y documentos jurídicos muestran
+interés por la confiabilidad de la información. Es importante convertir
+ese interés en prácticas sistemáticas de seguridad: autenticación,
+autorización, gestión de secretos, validación de entradas, control de
+acceso, protección de datos y registro seguro de eventos.
+
+7.6. Experiencia profesional con herramientas de BI
+
+Ha utilizado Pandas y SQL y conoce Power BI por formación académica. No
+cuenta con experiencia profesional de implementación de Power BI
+confirmada.
+
+Área de mejora: Desarrollar un proyecto completo de BI con un conjunto
+de datos realista, modelo de datos, consultas, indicadores, dashboard y
+explicación de decisiones. Hasta entonces, Power BI debe describirse
+como conocimiento académico, no como experiencia laboral.
+
+7.7. Inglés profesional
+
+Su nivel declarado es intermedio. Para ampliar oportunidades en equipos
+internacionales, conviene fortalecer conversación técnica, lectura de
+documentación avanzada, escritura profesional y explicación oral de
+proyectos.
+
+7.8. Documentación y comunicación de resultados
+
+Ha desarrollado componentes complejos, pero una parte del valor
+profesional depende de que otras personas puedan comprenderlos,
+instalarlos, probarlos y mantenerlos.
+
+Área de mejora: Publicar documentación clara, diagramas de arquitectura,
+instrucciones de ejecución, decisiones técnicas, limitaciones conocidas
+y resultados de pruebas. Cada proyecto del portafolio debería explicar
+qué problema resuelve, qué parte desarrolló, cómo funciona y qué
+evidencia existe de su resultado.
+
+7.9. Medición del impacto
+
+Es fácil describir tecnologías utilizadas y difícil demostrar el valor
+que generaron. En algunos proyectos existen métricas de evaluación
+técnica, pero no necesariamente métricas de impacto operativo o de
+satisfacción de usuarios.
+
+Área de mejora: Registrar indicadores como tiempo ahorrado, reducción de
+tareas manuales, volumen de operaciones, usuarios atendidos, tasa de
+errores, latencia, costo por solicitud y resultados de pruebas con
+usuarios. Solo deben publicarse métricas que realmente se hayan medido.
+
+7.10. Evitar presentar familiaridad como dominio
+
+Su amplitud tecnológica puede llevar a listar herramientas sin explicar
+qué hizo con cada una. Esto puede generar expectativas difíciles de
+respaldar durante una entrevista.
+
+Área de mejora: Clasificar tecnologías por nivel de experiencia y
+vincularlas con proyectos concretos. Es preferible explicar bien cinco
+tecnologías utilizadas para resolver problemas reales que enumerar
+veinte sin contexto.
+
+======================================================================
+8. FORMA DE TRABAJAR
+======================================================================
+
+A partir de sus proyectos, su forma de trabajar puede describirse
+mediante el siguiente patrón:
+
+1.  Comprender el problema. Identificar quién utilizará la solución, qué
+    necesita hacer, qué información existe y qué restricciones deben
+    respetarse.
+
+2.  Dividir el problema. Separar las funciones en componentes: datos,
+    lógica de negocio, servicios, modelos, integración e interfaz.
+
+3.  Investigar la herramienta adecuada. Revisar tecnologías,
+    documentación y alternativas antes de comprometer la implementación
+    con una solución.
+
+4.  Preparar los datos y las estructuras. Definir entidades, etiquetas,
+    relaciones, formatos y validaciones. En proyectos de IA, esto
+    incluye revisar la calidad del dataset y la consistencia de las
+    anotaciones.
+
+5.  Construir una primera implementación funcional. Desarrollar el flujo
+    principal y conectar los componentes necesarios para comprobar que
+    la solución puede cumplir su objetivo.
+
+6.  Probar y revisar. Evaluar resultados, buscar casos límite, detectar
+    inconsistencias y comprobar que las salidas sean coherentes con los
+    requisitos.
+
+7.  Ajustar. Modificar reglas, datos, umbrales, servicios o estructuras
+    cuando las pruebas muestran problemas.
+
+8.  Integrar. Conectar el desarrollo con las plataformas, APIs o
+    procesos que utilizarán la solución.
+
+9.  Documentar y preparar la entrega. Explicar cómo funciona, cómo se
+    configura y qué limitaciones tiene.
+
+Este patrón refleja una orientación de ingeniería aplicada. No debe
+interpretarse como una metodología formal certificada, sino como una
+síntesis de las actividades que ha realizado.
+
+======================================================================
+9. INTERESES TÉCNICOS
+======================================================================
+
+Inteligencia artificial aplicada: Le interesa que la IA resuelva tareas
+específicas y se integre con aplicaciones existentes. Ha explorado
+modelos compactos especializados, LLM, RAG y ejecución local.
+
+Modelos locales y privacidad: Tiene interés en ejecutar modelos en
+infraestructura propia, comprender los requisitos de hardware y reducir
+la dependencia de servicios externos cuando el caso de uso lo permite.
+
+Procesamiento de lenguaje natural: Le interesa convertir solicitudes
+expresadas en lenguaje cotidiano en estructuras que un sistema pueda
+interpretar y ejecutar de forma controlada.
+
+Agentes y automatización: Ha trabajado en la evolución de soluciones de
+asistencia hacia entornos con componentes especializados, herramientas y
+procesos de ejecución. Le interesa automatizar tareas sin perder control
+sobre las acciones y los datos.
+
+Backend e integración: Le interesa construir servicios que conecten
+plataformas, APIs, bases de datos y modelos de IA.
+
+RAG y sistemas basados en conocimiento: Le interesa que los sistemas
+puedan consultar documentación específica, recuperar evidencia y ofrecer
+respuestas trazables.
+
+Linux y personalización del entorno: Utiliza y personaliza Linux,
+especialmente Arch Linux y Hyprland. Le interesa controlar su entorno de
+desarrollo, comprender el sistema y adaptar las herramientas a su flujo
+de trabajo.
+
+Tecnología con utilidad organizacional: Sus proyectos suelen partir de
+procesos educativos, administrativos o profesionales que pueden mejorar
+mediante software.
+
+======================================================================
+10. EQUIPO Y ENTORNO DE DESARROLLO
+======================================================================
+
+Ha trabajado con equipos personales que utiliza para desarrollo,
+experimentación con IA y administración de entornos Linux y Windows.
+
+Equipo de escritorio: - Procesador AMD Ryzen 5 5500. - GPU NVIDIA RTX
+5060 de 8 GB. - 32 GB de RAM. - SSD NVMe de 1 TB. - Fuente de
+alimentación de 650 W. - Placa base MSI B550M PRO-VDH WIFI.
+
+Equipo portátil: - Lenovo con identificador de modelo 21BSS0SM00. -
+Intel Core i7-1270P. - 32 GB de RAM. - SSD ADATA LEGEND 860 de 500 GB. -
+Entorno Linux como plataforma de trabajo.
+
+Preferencias de entorno: - Linux para desarrollo y personalización. -
+Arch Linux y Hyprland. - Uso habitual de terminal. - Separación de
+entornos de trabajo y uso personal mediante unidades distintas. -
+Interés por reducir dependencias innecesarias y mantener control sobre
+el sistema.
+
+Esta información puede ser útil para conversaciones técnicas, pero
+normalmente no es necesario publicar modelos exactos de hardware en el
+portafolio principal. Es mejor reservarlos para una sección de
+laboratorio, blog técnico o perfil de experimentación.
+
+======================================================================
+11. FORMACIÓN Y CONTEXTO ACADÉMICO
+======================================================================
+
+Licenciatura en Sistemas Computacionales y Negocios Digitales — IEST
+Anáhuac. Noveno semestre. Graduación prevista: diciembre de 2026.
+
+La formación combina fundamentos de sistemas computacionales con
+conocimientos relacionados con procesos y negocios digitales. Esta
+combinación es relevante para su perfil porque le permite analizar tanto
+la implementación de una solución como el proceso que pretende mejorar.
+
+El trabajo académico y profesional se ha complementado con proyectos
+aplicados de backend, integración de plataformas, procesamiento de
+lenguaje natural, preparación de datos y experimentación con modelos de
+IA.
+
+======================================================================
+12. POSICIONAMIENTO PROFESIONAL
+======================================================================
+
+Posicionamiento recomendado:
+
+Desarrollador de software enfocado en backend e inteligencia artificial
+aplicada. Construye e integra soluciones que conectan datos, APIs,
+modelos de lenguaje y plataformas existentes. Tiene experiencia en
+procesamiento de lenguaje natural, preparación y evaluación de datasets,
+desarrollo de servicios e integración de Canvas LMS.
+
+Este posicionamiento: - Refleja su experiencia comprobable. - Evita
+presentarlo como investigador especializado en aprendizaje profundo. -
+Evita reducirlo a un perfil de etiquetado de datos. - Permite aplicar a
+puestos junior de backend, desarrollo de IA, integración de sistemas,
+automatización y desarrollo de aplicaciones con IA. - Mantiene una
+identidad profesional coherente entre proyectos distintos.
+
+Puestos que guardan relación con su experiencia: - Junior AI
+Developer. - AI/ML Engineer Junior, especialmente en integración y
+aplicación de modelos. - Backend Developer Junior. - Software Developer
+Junior. - Python Developer Junior. - Node.js Developer Junior. - NLP
+Developer Junior. - AI Integration Developer. - Automation Developer. -
+Data Engineer Junior, en posiciones que valoren Python, SQL y
+preparación de datos. - Developer de soluciones empresariales con IA.
+
+No todos estos puestos representan el mismo nivel de ajuste. Los más
+directamente relacionados con su experiencia actual son desarrollo
+backend, integración de IA, desarrollo de software con Python/JavaScript
+y NLP aplicado.
+
+======================================================================
+13. VALOR DIFERENCIAL
+======================================================================
+
+Su valor diferencial está en conectar distintas capas de una solución:
+
+-   Puede trabajar con los datos que alimentan un sistema.
+-   Puede estructurar y validar conjuntos de datos para modelos.
+-   Puede experimentar con modelos de NLP y LLM.
+-   Puede desarrollar servicios backend que consumen esos modelos.
+-   Puede conectar los servicios con APIs y plataformas existentes.
+-   Puede analizar si el resultado cumple con el propósito de la
+    aplicación.
+-   Puede ajustar la solución a las restricciones técnicas y operativas
+    del entorno.
+
+No se trata únicamente de saber utilizar un modelo de inteligencia
+artificial. Su experiencia incluye construir el flujo que permite que
+ese modelo forme parte de una aplicación: datos, interpretación,
+contexto, reglas, servicios e integración.
+
+Una frase que resume esta propuesta de valor:
+
+“Desarrollo e integro soluciones de software e inteligencia artificial,
+conectando datos, modelos y servicios para resolver problemas
+concretos.”
+
+Otra alternativa, más técnica:
+
+“Backend e inteligencia artificial aplicada: del procesamiento de datos
+y NLP a la integración de modelos y APIs en aplicaciones reales.”
+
+======================================================================
+14. CÓMO DEBERÍA PRESENTARSE EN SU PORTAFOLIO
+======================================================================
+
+El portafolio debe mostrar evidencia de trabajo, no solamente una lista
+de tecnologías o una descripción extensa de cualidades personales.
+
+14.1. Encabezado principal
+
+Nombre: Román del Angel Juárez
+
+Título recomendado: Desarrollador de Software | Backend e Inteligencia
+Artificial Aplicada
+
+Descripción breve: Desarrollo soluciones de software que conectan datos,
+APIs y modelos de inteligencia artificial. Me enfoco en backend,
+procesamiento de lenguaje natural e integración de sistemas, con
+experiencia en proyectos educativos, administrativos y herramientas
+basadas en conocimiento.
+
+14.2. Sección “Sobre mí”
+
+Debe explicar: - Qué tipo de desarrollador es. - Qué problemas le
+interesa resolver. - Qué áreas técnicas trabaja. - Qué experiencia
+práctica tiene. - Qué busca profesionalmente.
+
+Debe evitar: - Frases vacías como “apasionado por la tecnología desde
+pequeño”. - Afirmaciones absolutas como “experto en todas las
+tecnologías”. - Listas enormes de herramientas sin contexto. -
+Declaraciones de liderazgo o trabajo en equipo que no estén respaldadas
+por ejemplos concretos.
+
+14.3. Sección de proyectos
+
+Orden recomendado:
+
+1.  Canvitas — NLP e integración con Canvas LMS. Es el proyecto que
+    mejor muestra su combinación de IA, datos, arquitectura de
+    interpretación e integración de plataformas.
+
+2.  Asistente jurídico con RAG. Muestra recuperación documental, uso de
+    modelos de lenguaje, trazabilidad y control de fuentes.
+
+3.  Sistema ERM del Colegio de Anestesiología de Tampico. Muestra
+    experiencia backend, análisis de requerimientos, modelado de datos y
+    desarrollo para una organización real.
+
+4.  Infraestructura de modelos locales. Muestra experimentación con
+    despliegue, cuantización, GPU, vLLM y APIs de inferencia.
+
+5.  Carroel. Muestra desarrollo de herramientas administrativas y
+    orientación a procesos.
+
+Cada proyecto debería incluir: - Nombre y objetivo. - Problema que
+resuelve. - Contexto del usuario u organización. - Responsabilidad
+personal de Román. - Arquitectura o flujo de funcionamiento. -
+Tecnologías realmente utilizadas. - Capturas, diagramas o
+demostración. - Resultados medidos. - Limitaciones conocidas. - Estado
+actual: terminado, en desarrollo, beta o experimental.
+
+14.4. Sección de tecnologías
+
+Organizar por categorías y nivel de experiencia, por ejemplo:
+
+Uso práctico en proyectos: Python, JavaScript, Node.js, SQL, MySQL,
+MongoDB, Pandas, APIs, Git, Linux.
+
+IA y datos: NLP, MiniLM, PyTorch, Sentence Transformers, RAG, LLM, vLLM,
+ONNX.
+
+Backend e integración: Node.js, FastAPI, APIs REST, Canvas LMS, LTI.
+
+Conocimientos complementarios: C++, PHP, PostgreSQL, Docker, HTML, CSS,
+Power BI (académico).
+
+La clasificación final debe revisarse antes de publicarse para asegurar
+que cada herramienta tenga un nivel y un ejemplo que pueda defenderse en
+una entrevista.
+
+14.5. Sección de experiencia
+
+Mostrar los dos roles principales: - Desarrollador Junior de IA en
+ClusterIA / IEST Anáhuac, desde octubre de 2025. - Desarrollador Backend
+Freelance para el Colegio de Anestesiología de Tampico, junio a octubre
+de 2025.
+
+Describir responsabilidades con verbos concretos y resultados
+verificables.
+
+14.6. Sección de contacto
+
+Incluir enlaces reales y actualizados a: - Correo profesional. -
+GitHub. - LinkedIn. - CV descargable.
+
+No inventar enlaces ni publicar datos personales que no sean necesarios.
+
+======================================================================
+15. TONO Y ESTILO DE COMUNICACIÓN
+======================================================================
+
+La comunicación profesional debería ser: - Directa. - Técnica, pero
+comprensible. - Segura sin exagerar. - Concreta y respaldada por
+ejemplos. - Orientada a resultados y problemas resueltos. - Honesta
+sobre el nivel de experiencia. - Capaz de explicar decisiones técnicas
+sin convertir cada descripción en una lista de herramientas.
+
+Es preferible escribir: “Desarrollé una integración LTI en JavaScript
+para conectar Canvas LMS con servicios de IA.”
+
+En lugar de: “Soy un apasionado experto en soluciones disruptivas de
+inteligencia artificial.”
+
+Es preferible escribir: “Preparé y evalué datasets para clasificación de
+intenciones y extracción de entidades.”
+
+En lugar de: “Domino el aprendizaje automático y la ciencia de datos.”
+
+Es preferible escribir: “Construí un flujo RAG que recupera fragmentos
+documentales y los utiliza como evidencia para responder consultas.”
+
+En lugar de: “Creé una IA jurídica que conoce toda la legislación
+mexicana.”
+
+La precisión aumenta la credibilidad y permite que un reclutador o
+cliente comprenda qué sabe hacer realmente.
+
+======================================================================
+16. INFORMACIÓN QUE NO DEBE INVENTARSE
+======================================================================
+
+Para mantener un portafolio confiable, no afirmar sin evidencia:
+
+-   Que domina profesionalmente todas las tecnologías listadas.
+-   Que es especialista senior en inteligencia artificial.
+-   Que ha dirigido equipos grandes.
+-   Que ha administrado infraestructura empresarial de alta
+    disponibilidad.
+-   Que todos sus proyectos están desplegados y disponibles
+    públicamente.
+-   Que un modelo mantiene una precisión fija en cualquier conjunto de
+    datos.
+-   Que una integración beta equivale a un sistema consolidado durante
+    años en producción.
+-   Que tiene experiencia profesional avanzada con Power BI.
+-   Que tiene inglés avanzado o bilingüe.
+-   Que todos los proyectos tienen métricas de impacto en usuarios.
+-   Que las herramientas experimentales son productos terminados.
+
+Cuando una cifra o resultado provenga de pruebas internas, debe
+indicarse el contexto de evaluación. Cuando una función esté en
+desarrollo, debe etiquetarse como tal.
+
+======================================================================
+17. DATOS PENDIENTES PARA COMPLETAR EL PORTAFOLIO
+======================================================================
+
+Antes de publicar una versión definitiva, conviene completar estos
+datos:
+
+-   URL del GitHub y repositorios que se pueden mostrar públicamente.
+-   URL del LinkedIn.
+-   Correo profesional de contacto.
+-   Capturas y demostraciones de Canvitas.
+-   Estado actual y alcance exacto de la versión beta de Canvitas.
+-   Funciones terminadas del sistema ERM del Colegio de Anestesiología.
+-   Funciones terminadas de Carroel.
+-   Tecnologías exactas utilizadas en cada proyecto.
+-   Qué proyectos pueden mostrarse sin revelar información confidencial.
+-   Enlaces a demos o despliegues públicos, si existen.
+-   Métricas de uso, rendimiento o impacto que estén medidas y
+    autorizadas para publicarse.
+-   Nivel de inglés actualizado y, si corresponde, certificación.
+-   Nivel real de cada tecnología que se quiera incluir.
+-   Preferencia sobre mostrar ubicación completa o solamente
+    país/región.
+
+======================================================================
+18. BIOGRAFÍAS BASE
+======================================================================
+
+18.1. Versión corta
+
+Soy Román del Angel Juárez, desarrollador de software enfocado en
+backend e inteligencia artificial aplicada. Trabajo con Python,
+JavaScript, procesamiento de lenguaje natural, bases de datos y APIs
+para construir e integrar soluciones que resuelven necesidades reales.
+Tengo experiencia en proyectos de IA para plataformas educativas,
+desarrollo backend y sistemas basados en conocimiento.
+
+18.2. Versión media
+
+Soy desarrollador de software con enfoque en backend e inteligencia
+artificial aplicada. Actualmente colaboro en ClusterIA, donde trabajo en
+preparación y evaluación de datos, modelos de procesamiento de lenguaje
+natural e integración de servicios de IA con plataformas educativas como
+Canvas LMS.
+
+También he desarrollado soluciones backend para organizaciones reales,
+participando en el análisis de requerimientos, modelado de datos, lógica
+de negocio e implementación. Me interesa construir sistemas útiles,
+confiables y mantenibles, entendiendo cómo se conectan sus componentes
+desde los datos hasta la experiencia del usuario.
+
+18.3. Versión técnica
+
+Desarrollador de software orientado a backend, NLP e integración de
+inteligencia artificial. Experiencia con Python, JavaScript/Node.js,
+SQL, Pandas, APIs, Canvas LMS y LTI. He trabajado en preparación de
+datasets, clasificación de intenciones, extracción de entidades,
+evaluación de modelos MiniLM, integración de LLM y sistemas RAG con
+recuperación documental. También tengo experiencia en diseño de bases de
+datos, lógica de negocio y desarrollo de servicios backend.
+
+18.4. Versión en inglés
+
+Software Developer focused on backend development and applied AI. I work
+with Python, JavaScript, databases, APIs, and natural language
+processing to build and integrate practical software solutions. My
+experience includes dataset preparation and evaluation, NLP models, AI
+integrations for educational platforms, backend systems, and
+knowledge-based applications.
+
+======================================================================
+19. RESUMEN EJECUTIVO
+======================================================================
+
+Román del Angel Juárez es un desarrollador de software en etapa inicial
+de carrera profesional, con formación en Sistemas Computacionales y
+Negocios Digitales y experiencia práctica en desarrollo backend e
+inteligencia artificial aplicada.
+
+Desde octubre de 2025 trabaja como Desarrollador Junior de IA en
+ClusterIA / IEST Anáhuac, participando en preparación de datos,
+evaluación de modelos, procesamiento de lenguaje natural e integración
+de servicios con Canvas LMS. Antes, entre junio y octubre de 2025,
+trabajó como desarrollador backend freelance en un sistema ERM para el
+Colegio de Anestesiología de Tampico, participando en requerimientos,
+diseño de datos, lógica de negocio e implementación.
+
+Sus proyectos incluyen Canvitas, un sistema de interpretación de
+lenguaje natural para Canvas LMS; un asistente jurídico experimental
+basado en RAG y recuperación documental; infraestructura local para
+servir modelos de lenguaje; y herramientas administrativas como Carroel.
+
+Sus principales fortalezas profesionales son el pensamiento analítico,
+la capacidad de aprendizaje autodirigido, la atención a la calidad de
+los datos, la orientación a resolver problemas reales, la
+experimentación técnica y la capacidad de conectar modelos, datos, APIs
+y aplicaciones.
+
+Sus principales oportunidades de crecimiento son consolidar una
+especialidad profesional, profundizar en arquitectura y operación de
+sistemas, formalizar pruebas automatizadas, ampliar su experiencia de
+producción, fortalecer el inglés profesional y documentar mejor el
+impacto de sus proyectos.
+
+La identidad profesional más coherente es la de un desarrollador de
+software enfocado en backend e inteligencia artificial aplicada, capaz
+de construir integraciones y sistemas que convierten datos y modelos en
+funciones útiles para usuarios y organizaciones.
+
+======================================================================
+FIN DEL DOCUMENTO
+======================================================================
